@@ -1,0 +1,12 @@
+.idea
+
+/docker/.env
+/logs/apache2/*.log
+/logs/docker/*.log
+/logs/mysql/*.log
+/mysql/data/*
+!/mysql/data/.gitkeep
+/mysql/import/*
+!/mysql/import/.gitkeep
+/www/*
+!/www/index.php
